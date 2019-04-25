@@ -1,0 +1,7 @@
+*.o
+*.out
+
+bak.*
+*.bak
+
+.vscode
